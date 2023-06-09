@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "description": "La Joconde, également connue sous le nom de Mona Lisa, est l'une des œuvres d'art les plus célèbres et emblématiques de tous les temps. Cette peinture à l'huile a été réalisée par le maître italien de la Renaissance, Leonardo da Vinci, au début du XVIe siècle. Elle est actuellement exposée au musée du Louvre à Paris.\n\n La Joconde représente une femme mystérieuse et énigmatique, dont le sourire subtil a captivé des générations de spectateurs. Elle est représentée de la taille jusqu'au buste, regardant directement le spectateur d'un air calme et serein. La figure de la Joconde est encadrée par un paysage doux et délicat, avec des collines et un ciel bleu en arrière-plan.",
+    "name": "La Joconde",
+    "artist": "Léonard de Vinci",
+    "price": 24.99,
+    "rating": 4.8,
+    "category": "acier inoxydable",
+    "image": "../images/1.jpg",
+    "liked": false
+  },
+  {
+    "id": 2,
+    "description": "\"Lecture\" est une magnifique peinture réalisée par l'artiste français Charles Guérin. Cette œuvre captivante représente une scène intime et tranquille où une femme est plongée dans la lecture d'un livre.\n\nLa femme représentée dans \"Lecture\" est captivée par son livre, et son expression reflète une concentration profonde et un certain recueillement. La lumière délicate qui se pose sur elle souligne son engagement total dans sa lecture, créant ainsi une sensation d'intimité et de tranquillité.",
+    "name": "Lecture",
+    "artist": "Charles Guérin",
+    "price": 19.99,
+    "rating": 4.5,
+    "category": "plastique",
+    "image": "../images/2.jpg",
+    "liked": false
+  },
+  {
+    "id": 3,
+    "description": "La Nuit étoilée est une peinture à l'huile qui représente un paysage nocturne avec un ciel tourbillonnant étoilé. Les couleurs vives et les motifs tourmentés font de cette œuvre un exemple emblématique de l'art post-impressionniste de Van Gogh.",
+    "name": "La Nuit étoilée",
+    "artist": "Vincent van Gogh",
+    "price": 29.99,
+    "rating": 4.6,
+    "category": "verre",
+    "image": "../images/3.jpg",
+    "liked": false
+  },
+  {
+    "id": 4,
+    "description": "Les Nymphéas sont une série de peintures de paysages aquatiques réalisées par Monet. Ces tableaux mettent en valeur les reflets colorés des nymphéas dans l'eau, capturant la lumière changeante et la beauté naturelle des jardins de Giverny.",
+    "name": "Les Nymphéas",
+    "artist": "Claude Monet",
+    "price": 32.99,
+    "rating": 4.9,
+    "category": "acier inoxydable",
+    "image": "../images/4.jpg",
+    "liked": false
+  },
+  {
+    "id": 5,
+    "description": "La Persistance de la mémoire est une œuvre surréaliste qui présente des montres molles et déformées, suspendues dans un paysage désertique. Cette peinture explore les concepts du temps et de la perception de manière énigmatique.",
+    "name": "La Persistance de la mémoire",
+    "artist": "Salvador Dalí",
+    "price": 17.99,
+    "rating": 4.3,
+    "category": "plastique",
+    "image": "../images/5.jpg",
+    "liked": false
+  },
+  {
+    "id": 6,
+    "description": "Les eaux calmes du lac reflètent parfaitement les montagnes majestueuses qui l'entourent. Eberhard Grossgasteiger capture l'atmosphère tranquille de ce paysage aquatique, invitant les spectateurs à se plonger dans un état de sérénité totale.Guernica est une peinture célèbre qui représente les horreurs de la guerre et rend hommage aux victimes du bombardement de la ville de Guernica pendant la guerre civile espagnole. Les formes cubistes et les couleurs sombres soulignent la violence et la tragédie.",
+    "name": "Guernica",
+    "artist": "Pablo Picasso",
+    "price": 39.99,
+    "rating": 4.7,
+    "category": "acier inoxydable",
+    "image": "../images/6.jpg",
+    "liked": true
+  },
+  {
+    "id": 7,
+    "description": "Les Tournesols sont une série de tableaux réalisés par Van Gogh représentant des bouquets de tournesols. Ces peintures sont caractérisées par des couleurs vives et des textures expressives, reflétant la passion de l'artiste pour la nature et la vie.",
+    "name": "Les Tournesols",
+    "artist": "Vincent van Gogh",
+    "price": 16.99,
+    "rating": 4.2,
+    "category": "plastique",
+    "image": "../images/7.jpg",
+    "liked": false
+  },
+  {
+    "id": 8,
+    "description": "La Cène est une fresque murale représentant le dernier repas de Jésus avec ses disciples. L'œuvre est renommée pour son réalisme et son utilisation innovante de la perspective. Elle est considérée comme l'une des plus grandes réalisations de la Renaissance.",
+    "name": "La Cène",
+    "artist": "Léonard de Vinci",
+    "price": 27.99,
+    "rating": 4.5,
+    "category": "verre",
+    "image": "../images/8.jpg",
+    "liked": true
+  },
+  {
+    "id": 9,
+    "description": "\"La Jeune Fille à la perle\" est une peinture emblématique réalisée par le peintre néerlandais Johannes Vermeer au XVIIe siècle. Cette œuvre est également connue sous le nom de \"Portrait de la jeune fille\" ou \"La Jeune Fille au turban\".\n\nDans cette peinture, Vermeer capture le portrait d'une jeune femme au regard envoûtant et au turban bleu. La lumière douce illumine délicatement son visage et met en valeur les détails subtils de sa peau et de ses vêtements. La jeune fille porte une perle sur son oreille gauche, qui brille d'un éclat mystérieux et attire l'attention du spectateur. ",
+    "name": "La Jeune Fille à la perle",
+    "artist": "Johannes Vermeer",
+    "price": 34.99,
+    "rating": 4.8,
+    "category": "acier inoxydable",
+    "image": "../images/9.jpg",
+    "liked": false
+  },
+  {
+    "id": 10,
+    "description": "Les Demoiselles d'Avignon est une peinture cubiste qui dépeint cinq prostituées dans un style géométrique et déformé. Ce tableau marque un tournant majeur dans l'histoire de l'art et annonce les mouvements modernes du XXe siècle.",
+    "name": "Les Demoiselles d'Avignon",
+    "artist": "Pablo Picasso",
+    "price": 21.99,
+    "rating": 4.4,
+    "category": "plastique",
+    "image": "../images/10.jpg",
+    "liked": false
+  },
+  {
+    "id": 11,
+    "description": "La Création d'Adam est une fresque célèbre située sur le plafond de la chapelle Sixtine. Elle représente le moment biblique où Dieu crée Adam, et l'œuvre est particulièrement connue pour la représentation expressive des mains des deux figures.",
+    "name": "La Création d'Adam",
+    "artist": "Michel-Ange",
+    "price": 21.99,
+    "rating": 4.4,
+    "category": "plastique",
+    "image": "../images/11.jpg",
+    "liked": false
+  },
+  {
+    "id": 12,
+    "description": "Les Noces de Cana est une immense peinture qui dépeint une scène biblique où Jésus assiste à un mariage à Cana. Ce tableau est réputé pour sa composition complexe et ses détails riches, mettant en valeur la magnificence de la fête et la diversité des personnages. Il témoigne du talent de Veronese pour la représentation narrative et le réalisme illusionniste.",
+    "name": "Les Noces de Cana",
+    "artist": "Paolo Veronese",
+    "price": 21.99,
+    "rating": 4.4,
+    "category": "plastique",
+    "image": "../images/12.jpg",
+    "liked": false
+  }
+]

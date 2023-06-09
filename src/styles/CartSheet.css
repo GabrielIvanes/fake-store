@@ -1,0 +1,113 @@
+.cartSheet-box {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 90vh;
+}
+.cartSheet-products {
+  text-align: center;
+  height: fit-content;
+  max-height: 450px;
+  width: 800px;
+  padding: 15px 30px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  overflow: auto;
+  border-radius: 20px;
+}
+.cartSheet-product {
+  padding: 10px;
+  height: 120px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  margin: 20px;
+  justify-content: space-between;
+  border-radius: 10px;
+}
+.cartSheet-product img {
+  width: 100px;
+  height: 100px;
+}
+.cartSheet-nameAndArtist {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.cartSheet-description {
+  margin-left: 20px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.cartSheet-quantityAndPrice {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
+}
+.cartSheet-quantityAndPrice button {
+  width: 30px;
+  height: 20px;
+  background-color: transparent;
+  border: 1px Solid #000;
+  cursor: pointer;
+}
+.cartSheet-product > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cartSheet-handleQuantity {
+  display: flex;
+  margin-right: 20px;
+}
+.cartSheet-quantityProduct {
+  display: block;
+  width: 30px;
+  height: 20px;
+  border: 1px Solid #000;
+}
+.cartSheet-priceProduct {
+  color: #ababab;
+}
+.cartSheet-closeAndPrice {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.cartSheet-closeAndPrice div:first-child {
+  margin-bottom: auto;
+  cursor: pointer;
+}
+
+.cartSheet-closeAndPrice div:last-child {
+  margin-top: auto;
+}
+.cart-information {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+}
+.total-price {
+  margin-right: 20px;
+}
+.trash {
+  border: 1px Solid #000;
+  padding: 4px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.checkout {
+  background-color: black;
+  color: white;
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.products {
+  width: fit-content;
+  max-width: 1200px;
+  margin-top: 50px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-bottom: 50px;
+  padding: 30px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.products-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
